@@ -1,0 +1,4 @@
+name = "HTTP-Entity-Compare"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+
